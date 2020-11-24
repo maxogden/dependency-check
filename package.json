@@ -30,7 +30,6 @@
   "author": "max ogden",
   "dependencies": {
     "debug": "^4.0.0",
-    "detective": "^5.0.2",
     "globby": "^11.0.0",
     "is-relative": "^1.0.0",
     "micromatch": "^4.0.2",
@@ -40,7 +39,7 @@
     "resolve": "^1.1.7"
   },
   "devDependencies": {
-    "detective-cjs": "^3.0.0",
+    "detective-cjs": "^3.1.1",
     "husky": "^4.0.3",
     "installed-check": "^4.0.0-0",
     "npm-run-all": "^4.1.5",

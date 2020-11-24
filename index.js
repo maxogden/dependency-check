@@ -163,7 +163,7 @@ function getDetective (name) {
   try {
     return name
       ? (typeof name === 'string' ? require(name) : name)
-      : require('detective')
+      : require('detective-cjs')
   } catch (e) {}
 }
 
